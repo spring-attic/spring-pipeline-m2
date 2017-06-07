@@ -9,7 +9,7 @@ Image containing `.m2` repository so that Concourse doesn't redownload all deps 
 Follow the instructions starting from [https://docs.docker.com/engine/getstarted/step_four/](here)
 
 ```
-$ docker build -t spring-pipeline-m2 .
+$ docker build -t spring-pipeline-m2 . --no-cache
 $ docker images
 // find the proper image e.g. 95610717ba45
 // pick proper version e.g. 0.0.4
