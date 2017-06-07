@@ -12,8 +12,8 @@ Follow the instructions starting from [https://docs.docker.com/engine/getstarted
 $ docker build -t spring-pipeline-m2 .
 $ docker images
 // find the proper image e.g. 95610717ba45
-// pick proper version e.g. 0.0.3
-$ docker tag 95610717ba45 springcloud/spring-pipeline-m2:0.0.3
+// pick proper version e.g. 0.0.4
+$ docker tag 95610717ba45 springcloud/spring-pipeline-m2:0.0.4
 $ docker tag 95610717ba45 springcloud/spring-pipeline-m2:latest
 $ docker login
 $ docker push springcloud/spring-pipeline-m2
