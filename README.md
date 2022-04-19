@@ -1,4 +1,4 @@
-# Spring-pipeline-m2
+# Spring-pipeline-m2 is no longer actively maintained by VMware, Inc.
 
 [![](https://images.microbadger.com/badges/image/springcloud/spring-pipeline-m2.svg)](https://microbadger.com/images/springcloud/spring-pipeline-m2 "Get your own image badge on microbadger.com")
 
